@@ -1,7 +1,9 @@
 <?php
 
+echo "test4";
 echo "test1";
-echo "test2";
+print_r($_GET);
+print_r($_POST);
 echo "test3";
 abc
 def
